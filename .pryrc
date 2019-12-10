@@ -41,4 +41,3 @@ if defined? Hirb
 
   Hirb.enable
 end
-TermsPry.config.pager = false
